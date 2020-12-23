@@ -18,6 +18,6 @@ This is the blog repo for my Programming Languages class.
 
  * Week 8: [Lambda Calculus](https://github.com/mamba72/ProgrammingLanguages_Blogs/blob/main/Week_8_LambdaCalculus.md)
 
- * Week 9: [Hoare Logic]()
+ * Week 9: [Hoare Logic](https://github.com/mamba72/ProgrammingLanguages_Blogs/blob/main/Week_9_HoareLogic.md)
 
- * Week 10: [LambdaFun]()
+ * Week 10: [LambdaFun](https://github.com/mamba72/ProgrammingLanguages_Blogs/blob/main/Week_10_LambdaFun.md)
